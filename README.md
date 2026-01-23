@@ -31,7 +31,7 @@ Linux  |  Git/GitHub  |  WordPress  |  VS Code  |  GitLab
 - 🔐 Cybersécurité & Gestion des Risques
 - 🔄 Automatisation de Workflows (n8n)
 - 📚 Création de Plateformes Éducatives
-- - 📋 Méthodologies : Agile (Scrum)
+- 📋 Méthodologies : Agile (Scrum)
 
 ## 📫 Me Contacter
 
