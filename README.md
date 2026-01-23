@@ -41,28 +41,9 @@ Linux  |  Git/GitHub  |  WordPress  |  VS Code  |  GitLab
 
 ## 📊 Statistiques GitHub
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcfohoue90&show_icons=true&theme=radical)
 
 ## 🎯 Projets en Cours
-
-<div align="center">
-
-### 📈 Statistiques Globales
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcfohoue90&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=fr)
-
-### 🔥 Série de Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcfohoue90&theme=radical&locale=fr)
-
-### 💻 Langages les Plus Utilisés
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcfohoue90&layout=compact&theme=radical&locale=fr&langs_count=8)
-
-### 🏆 Trophées GitHub
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=marcfohoue90&theme=radical&row=2&column=3)
-
-</div>
 
 - 🔧 Développement d'applications full-stack avec React et Next.js
 - 🤖 Construction d'agents IA conversationnels
@@ -72,3 +53,9 @@ Linux  |  Git/GitHub  |  WordPress  |  VS Code  |  GitLab
 ---
 
 *"Apprendre, construire et partager - chaque jour est une opportunité de progresser."*
+
+
+## 🎯 Projets en Cours
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcfohoue90&show_icons=true&theme=radical)
