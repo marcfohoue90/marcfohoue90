@@ -15,13 +15,13 @@
 
 ### Langages de Programmation
 ```
-Python  |  JavaScript  |  C#/.NET  |  SQL  |  HTML/CSS
+Python  |  JavaScript  |  C#/.NET  |  SQL  |  HTML/CSS  |  TypeScript
 ```
 
 ### Frameworks & Outils
 ```
 React  |  Next.js  |  Node.js  |  Docker  |  n8n
-Linux  |  Git/GitHub  |  WordPress  |  VS Code
+Linux  |  Git/GitHub  |  WordPress  |  VS Code  |  GitLab
 ```
 
 ### Domaines d'Expertise
@@ -31,6 +31,7 @@ Linux  |  Git/GitHub  |  WordPress  |  VS Code
 - 🔐 Cybersécurité & Gestion des Risques
 - 🔄 Automatisation de Workflows (n8n)
 - 📚 Création de Plateformes Éducatives
+- - 📋 Méthodologies : Agile (Scrum)
 
 ## 📫 Me Contacter
 
