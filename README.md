@@ -39,10 +39,6 @@ Linux  |  Git/GitHub  |  WordPress  |  VS Code  |  GitLab
 - 📧 Email : marcfohoue90@gmail.com
 - 🐙 GitHub : [@marcfohoue90](https://github.com/marcfohoue90)
 
-## 📊 Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcfohoue90&show_icons=true&theme=radical)
-
 ## 🎯 Projets en Cours
 
 - 🔧 Développement d'applications full-stack avec React et Next.js
@@ -53,9 +49,3 @@ Linux  |  Git/GitHub  |  WordPress  |  VS Code  |  GitLab
 ---
 
 *"Apprendre, construire et partager - chaque jour est une opportunité de progresser."*
-
-
-## 🎯 Projets en Cours
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcfohoue90&show_icons=true&theme=radical)
